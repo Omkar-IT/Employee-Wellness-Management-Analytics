@@ -1,11 +1,11 @@
-🚀 Employee Wellness Management Analytics - Milestone 1
+# 🚀 Employee Wellness Management Analytics - Milestone 1
 Welcome to the heart of our project! We are building a smarter, safer way to manage wellness and security. 🛡️
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 Our mission is to develop a robust, production-ready User Authentication Module for the Employee Wellness Management Analytics platform. We’ve designed a seamless, end-to-end workflow to keep user data secure while making access a breeze! 💼✨
 
-🛠️ Tech Stack Power-Up
+### 🛠️ Tech Stack Power-Up
 We’ve combined the best tools to create this solution:
 
 🌐 Frontend UI: Streamlit
@@ -20,7 +20,7 @@ We’ve combined the best tools to create this solution:
 
 ☁️ Environment: Google Colab
 
-⚙️ Google Colab Setup Instructions
+## ⚙️ Google Colab Setup Instructions
 Ready to fire it up? Follow these steps:
 
 📂 Upload: Load your Authentication.ipynb notebook into Google Colab.
