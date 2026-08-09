@@ -1,0 +1,1 @@
+Models for Qwen and BERT GoEmotions are dynamically loaded from Hugging Face during runtime via the nlp_pipeline.py script.
